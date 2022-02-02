@@ -7,3 +7,8 @@
 Ülesande sisu - ruutudest korrektsete suhetega tähed.
 
 ![Tähed ruutudeks](./ruudud_tahed.png)
+
+## Oma nimi + hobi
+Ülesande sisu - oma nime ühildamine oma hobiga.
+
+![Nimi+hobi](./nimi_hobi.png)
