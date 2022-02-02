@@ -5,7 +5,7 @@ const cviSidebar = [
 
 const logiSidebar = [
     {text: "logi", link:"/logi/"},
-    {text:"Font märgiks", link:"/01_font"}]
+    {text:"Font märgiks", link:"/logi/01_font"}]
 
 
 
