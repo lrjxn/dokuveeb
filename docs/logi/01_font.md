@@ -1,4 +1,4 @@
-# Tunniteema - fondi oma käe järgi muutmine
+# Fondi oma käe järgi muutmine
 Ülesande sisu - fondiga mängimine
 
 ![Fondiga mängimine](./oma_nimi.png)

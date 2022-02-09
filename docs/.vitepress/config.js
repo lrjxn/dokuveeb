@@ -5,7 +5,8 @@ const cviSidebar = [
 
 const logiSidebar = [
     {text: "logi", link:"/logi/"},
-    {text:"Font märgiks", link:"/logi/01_font"}]
+    {text:"Font märgiks", link:"/logi/01_font"},
+    {text:"Apple", link:"/logi/apple"}]
 
 
 
@@ -27,6 +28,7 @@ module.exports = {
               "/cvi/visandid":cviSidebar,
             "/logi/":logiSidebar,
             "/logi/01_font":logiSidebar,
+            "/logi/apple":logiSidebar,
           },
     },
   };
