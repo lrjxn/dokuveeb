@@ -6,7 +6,8 @@ const cviSidebar = [
 const logiSidebar = [
     {text: "logi", link:"/logi/"},
     {text:"Font märgiks", link:"/logi/01_font"},
-    {text:"Apple", link:"/logi/apple"}]
+    {text:"Apple", link:"/logi/apple"},
+    {text:"Pildi järgi disainimine", link:"/logi/pildijargi"}]
 
 
 
@@ -29,6 +30,7 @@ module.exports = {
             "/logi/":logiSidebar,
             "/logi/01_font":logiSidebar,
             "/logi/apple":logiSidebar,
+            "/logi/pildijargi":logiSidebar,
           },
     },
   };
